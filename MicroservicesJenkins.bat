@@ -1,0 +1,1 @@
+start bzt D:\PerformanceTesting\MicroServices\Scripts\Authentication.jmx -report
